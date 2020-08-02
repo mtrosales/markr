@@ -8,4 +8,4 @@ _Welcome to my site._
 
 ###### Created using VS Code and hosted in Github
 
-[my github]: [https://github.com/mtrosales/]
+[my github]: https://github.com/mtrosales/
