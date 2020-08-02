@@ -1,5 +1,7 @@
 # markr
 
-Welcome to my site.
+_Welcome to my site._
 
-- Under construction
+- Currently under construction.
+
+######Created using VS Code and hosted in Github
