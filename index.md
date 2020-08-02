@@ -1,8 +1,10 @@
-# markr
+# markr.xyz
 
 _Welcome to my site._
 
-#### Currently under construction.
+## Currently under construction.
+
+Links:
 - [Github][my github]
 - [Linkedin][my linkedin]
 
