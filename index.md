@@ -4,6 +4,7 @@ _Welcome to my site._
 
 #### Currently under construction.
 - [Github][my github]
+- [Linkedin][my linkedin]
 
 ###### Created using VS Code and hosted in Github
 
